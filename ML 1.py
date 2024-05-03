@@ -1,9 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[39]:
-
-
+#since slno is already dropped so commented the df column
 import pandas as pd
 df = pd.read_csv('EnjoySport.csv')
 #df = df.drop(['slno'],axis=1)
